@@ -1,8 +1,8 @@
-public class main {
+public class hello {
 
 public static void main (String [] args){
 
-System.out.printlm()
+System.out.printlm("Hello world")
 
 }
 }
